@@ -1,6 +1,8 @@
 ![](dataset.JPG)
 
-
+|Name|Age|Gender|
+|----|----|----|
+|emma|17|male|
 
 
  # DTA-240023 Data Visualization
