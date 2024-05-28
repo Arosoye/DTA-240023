@@ -1,5 +1,5 @@
-![dataset](https://github.com/Arosoye/DTA-240023/assets/132354197/5defad35-b800-48df-84ba-d764a745ffea)
-![](IMG_1774.JPG)
+![](dataset)
+
 
 
  # DTA-240023 Data Visualization
