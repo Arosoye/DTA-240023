@@ -1,4 +1,10 @@
+![dataset](https://github.com/Arosoye/DTA-240023/assets/132354197/5defad35-b800-48df-84ba-d764a745ffea)
+![](IMG_1774.JPG)
+
+
  # DTA-240023 Data Visualization
+
+
 
 ##  **Defination of Data visualization**
 
@@ -32,4 +38,9 @@ Some popular data visualization projects include:
 3. _Network visualizations_ for representing relationships between entities, like social media connections or supply chains.
 4. _Time series visualizations_ for showing trends and patterns in data over time, like stock prices or weather data.
 5. _Infographics_ for presenting information in a visually appealing and easily digestible format.
+
+
+
+
+
 
